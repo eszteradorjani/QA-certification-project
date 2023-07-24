@@ -13,6 +13,7 @@ My objective was to simulate a real life testing scenario by following these ste
 - generate summaries and reports
 
 What have I learned?
+
 At first I thought, since I chose a simple application, that I will be able to test all functional features. While creating the test cases by covering the requirements - with mostly positive cases - I have realised that testing the whole application requires significantly more time and the end result might be a bit sloppy. So I turned my priorities towards a more in depth testing two important features, the registration and login.
 I have learned that it is important to know how and what to prioritise and maybe test one functionality inside and out, thoroughly, but keeping in mint that _exhaustive testing is impossible_. 
 I loved the whole work process, the findings, thought processes behind it, and all A-HA! moments.
