@@ -2,6 +2,7 @@
 This is my first solo QA project for the certification exam. July 2023
 
 Book Store Application: https://demoqa.com/login
+
 QA Test Management Tool: QA Touch https://www.qatouch.com/
 
 My objective was to simulate a real life testing scenario by following these steps:
